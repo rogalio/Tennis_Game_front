@@ -17,8 +17,10 @@ exemple ;
 (3-7) = 30 %,
 
 on genere ensuite un `nombre aleatoire` entre 1 et 100 et si ;
-`nombre aleatoire`  < `winrate` = joueur 1 win
-`nombre aleatoire`  > `winrate` = joueur 2 win
+
+`nombre aleatoire`  < `winrate` = joueur 1 win ,
+
+`nombre aleatoire`  > `winrate` = joueur 2 win 
 
 
 
