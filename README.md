@@ -1,6 +1,6 @@
 `lancer le site`
 
-https://app.netlify.com/sites/prismatic-brigadeiros-6edc41/overview
+https://prismatic-brigadeiros-6edc41.netlify.app/
 
 
 
