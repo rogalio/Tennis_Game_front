@@ -12,9 +12,9 @@ pour le joueur 1.
 `winrate` (level 1 - level 2) * 5 + 50
 
 exemple ; 
-(7-3) = 70 %
-(5-5) = 50 %
-(3-7) = 30 %
+(7-3) = 70 %,
+(5-5) = 50 %,
+(3-7) = 30 %,
 
 on genere ensuite un `nombre aleatoire` entre 1 et 100 et si ;
 `nombre aleatoire`  < `winrate` = joueur 1 win
